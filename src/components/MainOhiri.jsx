@@ -21,6 +21,7 @@ const MainOhiri = () => {
         <div>
             <img src={img} alt="" />
         </div>
+    
     </div>
   )
 }

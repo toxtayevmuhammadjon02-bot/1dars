@@ -19,6 +19,9 @@ const App = () => {
       <Main4/>
       <Main5/>
       <MainOhiri/>
+      git add .
+git commit -m "first commit"
+git push -u origin muhammadjon
     </div>
   )
 }
